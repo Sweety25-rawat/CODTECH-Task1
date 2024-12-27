@@ -83,7 +83,7 @@ The analysis generated several key insights:
    - Shows the distribution of the `media_type` variable.
 
 ## Conclusion
-The EDA process provided a comprehensive understanding of the **Trending Movies Dataset**, identified relationships between variables, and uncovered outliers. The cleaned data is now ready for further analysis or model building.
+The EDA process has provided a comprehensive understanding of the **Trending Movies Dataset**, highlighting key patterns, correlations, and outliers. The cleaned data is now ready for further analysis or model building.
 
 ## Future Work
 - Build predictive models using the cleaned data to predict movie popularity or ratings.
@@ -91,6 +91,4 @@ The EDA process provided a comprehensive understanding of the **Trending Movies 
 - Implement machine learning models to predict trends in movie data.
 
 ---
-
-Feel free to explore the analysis and provide feedback or suggestions for improvement.
-
+Thank you for checking out the project!
